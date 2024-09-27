@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/199.0.0.56.98;FBBV/132462584;FBDM/{density=2.0,width=720,height=1406};FBLC/en_US;FBRV/132462584;FBCR/;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/14T Pro;FBSV/8.0.1;FBBK/1;FBOP/15;FBCA/armeabi-v7a:armeabi;]
