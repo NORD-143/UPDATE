@@ -1,1 +1,6 @@
-[FBAN/FB4A;FBAV/190.0.0.34.94;FBBV/124536011;FBDM/{density=2.75,width=1080,height=2168};FBLC/en_US;FBRV/124536011;FBCR/;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/C63 5G;FBSV/6.0.1;FBBK/1;FBOP/15;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/348.0.0.39.118;FBBV/338919018;FBDM/{density=3.5,width=1440,height=2984};FBLC/en_GB;FBRV/342797849;FBCR/EE;FBMF/Google;FBBD/google;FBPN/com.facebook.katana;FBDV/Pixel 4 XL;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/196.0.0.29.99;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/135374479;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_F
+[FBAN/FB4A;FBAV/248.1.0.44.116;FBBV/184540730;FBDM/{density=2.0,width=720,height=1196};FBLC/es_ES;FBRV/0;FBCR/HOME;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LM-X210;FBSV/7.1.2;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/256.0.0.39.117;FBBV/196542476;FBDM/{density=3.0,width=1080,height=1798};FBLC/en_US;FBRV/198442689;FBCR/T-Mobile;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-TP450;FBSV/7.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/352.0.0.21.117;FBBV/348184966;FBDM/{density=1.75,width=720,height=1473};FBLC/en_US;FBRV/0;FBCR/Metro by T-Mobile;FBMF/Wingtech;FBBD/T-Mobile;FBPN/com.facebook.katana;FBDV/TMRVL4G;FBSV/11;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027750;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/LAVA;FBBD/LAVA;FBPN/com.facebook.katana;FBDV/Z81;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
