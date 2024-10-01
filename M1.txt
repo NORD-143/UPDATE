@@ -1,10 +1,2 @@
-[FBAN/FB4A;FBAV/221.0.0.48.102;FBBV/154683426;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBRV/0;FBCR/VodaCom-SA;FBMF/HMD Global;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/TA-1024;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/282.0.0.40.117;FBBV/236468732;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBRV/238430540;FBCR/Ufone;FBMF/HMD Global;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 6.1;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129347;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/0;FBCR/Metro by T-Mobile;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto e6;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/245.0.0.39.118;FBBV/180475968;FBDM/{density=1.7,width=720,height=1280};FBLC/es_LA;FBRV/0;FB_FW/2;FBCR/UNEFON 4G;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto C Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/Orca-Android;FBAV/108.0.0.43.120;FBBV/515779258;FBLC/en_US;FBCR/Airtel;FBPN/com.facebook.orca;FBDV/EVA-L29;FBSV/10;FBDM/{density=3.0,width=1080,height=2141};]
-[FBAN/FB4A;FBAV/312.0.0.45.117;FBBV/281505401;FBDM/{density=1.75,width=720,height=1464};FBLC/de_DE;FBRV/283611169;FBCR/o2-de;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A426B;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
-
-
-
-
+[FBAN/FB4A;FBAV/203.0.0.16.293;FBBV/137424444;FBDM/{density=2.75,width=1080,height=2120};FBLC/en_US;FBRV/137424444;FBCR/;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/Y55s;FBSV/8.0.1;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/190.0.0.34.94;FBBV/124536011;FBDM/{density=2.0,width=720,height=1400};FBLC/en_US;FBRV/124536011;FBCR/Boost Mobile;FBMF/oppo;FBBD/oppo;FBPN/com.facebook.katana;FBDV/Reno11 F;FBSV/10;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]
